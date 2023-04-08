@@ -5,6 +5,7 @@
   <li>Express.js</li>
   <li>JSON Web Tokens (JWT)</li>
   <li>express-session</li>
+  <li>Ejs templating engine</li>
 </ul>
 <h2>Usage:</h2>
 <ol>
