@@ -1,0 +1,29 @@
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    width: 30%;
+}
+
+body {
+    color: green;
+    background-color: rgba(0, 0, 0, 0.798);
+    text-align: center;
+}
+
+.input {
+    width: 80%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    width: 50%;
+    height: 40px;
+    background-color: green;
+    color: white;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
